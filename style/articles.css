@@ -9,7 +9,7 @@
 
 .main-articles {
     margin-top: 100px;
-    background-image: url('/img/articles-bg.png');
+    background-image: url('./img/articles-bg.png');
     background-size: auto;
     padding: 25px;
     width: 100%;
