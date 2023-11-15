@@ -1,1 +1,1 @@
-"# CourseCore" 
+# CourseCore 
