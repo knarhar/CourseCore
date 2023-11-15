@@ -36,16 +36,16 @@ dropdownCourseProgram(opener, cont, arrow);
 
 
 // categories dropdown
-// const categories = document.querySelector('#categories');
-// console.log(categories);
+const categories = document.querySelector('#categories');
+console.log(categories);
 
-// categories.addEventListener('mouseover', function() {
-//     categories.querySelector('.categories').style.display = 'flex';
-// });
+categories.addEventListener('mouseover', function() {
+    categories.querySelector('.categories').style.display = 'flex';
+});
 
-// categories.addEventListener('mouseout', function() {
-//     categories.querySelector('.categories').style.display = 'none';
-// });
+categories.addEventListener('mouseout', function() {
+    categories.querySelector('.categories').style.display = 'none';
+});
 
 
 //
