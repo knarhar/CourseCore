@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'SOFIAPROSOFTBOLD';
-	src: local('SOFIAPROSOFTBOLD'), url('./fonts/SOFIAPROSOFTBOLD.woff') format('woff');
+	src: local('SOFIAPROSOFTBOLD'), url('../fonts/SOFIAPROSOFTBOLD.woff') format('woff');
 }
 
 @font-face {    
     font-family: '9Slide03SOFIAPROSOFTLIGHT';
-	src: local('9Slide03SOFIAPROSOFTLIGHT'), url('./fonts/9Slide03SOFIAPROSOFTLIGHT.woff') format('woff');
+	src: local('9Slide03SOFIAPROSOFTLIGHT'), url('../fonts/9Slide03SOFIAPROSOFTLIGHT.woff') format('woff');
 }
 
 :root{
